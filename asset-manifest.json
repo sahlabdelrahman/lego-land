@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lego-land/static/css/main.96b39203.css",
+    "main.js": "/lego-land/static/js/main.32d82a76.js",
+    "index.html": "/lego-land/index.html",
+    "main.96b39203.css.map": "/lego-land/static/css/main.96b39203.css.map",
+    "main.32d82a76.js.map": "/lego-land/static/js/main.32d82a76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b39203.css",
+    "static/js/main.32d82a76.js"
+  ]
+}
