@@ -2,7 +2,7 @@ const products = [
   {
     id: "1",
     name: "Big blue lego jeep collection <<Brutal>>",
-    image: "images/1.png",
+    image: "https://sahlabdelrahman.github.io/lego-land/1.png",
     oldPrice: 600,
     price: 400,
     vendorCode: 10521,
@@ -12,7 +12,7 @@ const products = [
   {
     id: "2",
     name: "White racing lego car collection <<Speed>>",
-    image: "images/2.png",
+    image: "https://sahlabdelrahman.github.io/lego-land/2.png",
     oldPrice: 1999,
     price: 888,
     vendorCode: 21754,
@@ -22,7 +22,7 @@ const products = [
   {
     id: "3",
     name: "Sports motorbike, multiple switch modes to help veh..",
-    image: "images/3.png",
+    image: "https://sahlabdelrahman.github.io/lego-land/3.png",
     oldPrice: 959,
     price: 650,
     vendorCode: 6642,
@@ -32,7 +32,7 @@ const products = [
   {
     id: "4",
     name: "simple car",
-    image: "images/4.png",
+    image: "https://sahlabdelrahman.github.io/lego-land/4.png",
     oldPrice: 500,
     price: 300,
     vendorCode: 6654,
@@ -42,7 +42,7 @@ const products = [
   {
     id: "5",
     name: "Airplane",
-    image: "images/5.png",
+    image: "https://sahlabdelrahman.github.io/lego-land/5.png",
     oldPrice: 800,
     price: 600,
     vendorCode: 2455,
@@ -52,7 +52,7 @@ const products = [
   {
     id: "6",
     name: "Batman's car",
-    image: "images/6.png",
+    image: "https://sahlabdelrahman.github.io/lego-land/6.png",
     oldPrice: 900,
     price: 700,
     vendorCode: 4632,
